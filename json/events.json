@@ -1,0 +1,94 @@
+[
+  {
+    "title": "Kick-off Meeting / Elections - Unveil of all programs and events + Election Pitch / Hire of Board Members!",
+    "start": "2020-02-07T13:00:00-15:00:00"
+  },
+  {
+    "title": "Front-End Software Engineering Bootcamp",
+    "start": "2020-02-11T14:30:00-17:30:00",
+    "end":   "2020-05-07T14:30:00-17:30:00"
+  },
+  {
+    "title": "Robotic Workshop 1 - Develop your Own Robot & Program Industrial Computers.",
+    "start": "2020-02-18T17:30:00-19:30:00"
+  },
+  {
+    "id": "999",
+    "title": "Repeating Event",
+    "start": "2020-02-25T17:30:00-19:30:00"
+  },
+  {
+    "id": "999",
+    "title": "Repeating Event",
+    "start": "2020-03-03T17:30:00-19:30:00",
+	"end":	 "2020-03-03T17:30:00-19:30:00"
+  },
+  {
+    "title": "Robotic Workshop 2 - Build a Rover To Perform Custom Tasks! Hosted by NASA Ambassador Eduardo Moya",
+    "start": "2020-02-11T17:30:00-20:00:00"
+  },
+  {
+    "id": "999",
+    "title": "Repeating Event",
+    "start": "2020-02-13T17:30:00-20:00:00",
+	"end":	 "2020-02-13T17:30:00-20:00:00"
+  },
+  {
+    "title": "Social Networking - Networking Social Event Collaboration with DIT Organizations",
+    "start": "2020-04-02T09:00:00-15:00:00",
+    "end":   "2020-04-02T09:09:00-15:00:00"
+  },
+  {
+    "title": "Robotic Workshop 3 - Develop your Own Robot & Program Industrial Computers",
+    "start": "2020-03-04T17:30:00-19:30:00"
+  },
+    {
+    "id": "999",
+    "title": "Repeating Event",
+    "start": "2020-03-11T17:30:00-19:30:00"
+  },
+  {
+    "id": "999",
+    "title": "Repeating Event",
+    "start": "2020-03-25T17:30:00-19:30:00",
+	"end":	"2020-03-25T17:30:00-19:30:00"
+  },
+  {
+    "title": "Robotic Workshop 4 - Build a Rover To Perform Unique Tasks! Hostd by NASA Ambassador Eduardo Moya",
+    "start": "2020-03-05T17:30:00-20:00:00"
+  },
+  {
+    "id": "999",
+    "title": "Repeating Event",
+    "start": "2020-03-12T17:30:00-20:00:00",
+	"end":	"2020-03-12T17:30:00-20:00:00"
+  },
+  {
+    "title": "Professional Development Event - Career Prep + Resume Critique Collaboration with SHPE & NSLS",
+    "start": "2020-03-23T17:00:00-20:00:00",
+	"end":	"2020-03-23T17:00:00-20:00:00"
+  },
+  {
+    "title": "IOT Workshop 1 - Develop your Own Smart Home Appliance",
+    "start": "2020-04-02T18:00:00-19:30:00"
+  },
+  {
+    "id": "999",
+    "title": "Repeating Event",
+    "start": "2020-04-09T18:00:00-20:00:00",
+	"end":	"2020-04-09T18:00:00-20:00:00"
+  },
+  {
+    "title": "Guest Speaker Event - Jose Lazaro: How to get your dream job and excel in your career",
+    "start": "2020-04-22T16:00:00-17:30:00",
+	"end":	"2020-04-22T16:00:00-17:30:00"
+  },
+  {
+    "title": "IOT Workhop 2 - Create your own Facial Recognition Security Lock",
+    "start": "2020-04-23T18:00:00-19:30:00"
+  {
+    "id": "999",
+    "title": "Repeating Event",
+    "start": "2020-04-30T18:00:00-19:30:00",
+	"end":	"2020-04-30T18:00:00-19:30:00"
+]
